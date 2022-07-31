@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Breast Phantom CAD Files
+message: Please use these files and cite if used
+type: dataset
+authors:
+  - given-names: Siobhan
+    name-particle: Oca
+    name-suffix: Ph.D.
+    email: skr23@duke.edu
+    orcid: 'https://orcid.org/0000-0002-1370-0036'
+    affiliation: Duke University
+  - given-names: Jiselle
+    name-particle: Havas
